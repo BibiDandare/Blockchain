@@ -1,17 +1,5 @@
 # Blockchain
 
-## TP noté - Validation d’intégrité de donnée via blockchain décentralisée avec preuve de travail et arbre de Merkle  
-Durée : 1h30
-Niveau : Intermédiaire  
-Barème : note sur 20
-- Base / 3
-- PoW / 4
-- Arbre de Merkle / 3
-- Décentralisation (X instances) / 3
-- Attaque 51 % / 3
-- Détection de corruption distribuée / 3
-- Bonus : Cas de tests multiples et rigoureux / +1
-Total : 19 + 1 point bonus pour cas de test avancés  
 
 Objectifs pédagogiques
 - Rendre une donnée infalsifiable et sécurisée
